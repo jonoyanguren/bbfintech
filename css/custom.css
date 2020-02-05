@@ -37,4 +37,29 @@
   margin-bottom: 1rem;
 }
 
+.bbffintech-video {
+  width: 100%;
+}
+
+.bbf-portfolio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 2rem;
+}
+
+.bbf-portfolio {
+  width: 25%;
+  margin: 1rem;
+}
+
+.team-image img {
+  height: 400px;
+}
+
+.slider-caption {
+  background: #00000099;
+  padding: 1rem;
+}
+
 
